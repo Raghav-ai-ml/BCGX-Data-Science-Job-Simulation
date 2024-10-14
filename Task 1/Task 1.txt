@@ -1,0 +1,11 @@
+Dear Sir/Madam,
+
+ On my initial analysis for PowerCo, 
+
+I realize that there are mainly two hypotheses we need to test. Firstly, whether customer churn is driven by price sensitivity. The second hypothesis is offering customers at high propensity to churn a 20% might be effective or not. 
+
+In order to test these two hypotheses, we need to model the churn probabilities and effect of prices on churn rate. Because this is a classification problem, we will be using one or more classification algorithms such as Logistic Regression, Decision tree, or Random Forest to name a few. But in the first step, we need data to do EDA confirm if the churn is driven by customer price sensitivity. Then we will find the most appropriate model that fits best. Once we get the model, we would able to understand the impact of price on churn rates and we can size the business impact of the second hypothesis.
+
+ Kind regards,
+
+A.Raghavendra Varma
